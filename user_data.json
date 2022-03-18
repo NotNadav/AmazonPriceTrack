@@ -1,0 +1,8 @@
+{
+    "sender_gmail_user": "",
+    "sender_gmail_password": "",
+    "receiver_mail": "",
+    "tracked_products": {
+        "https://example_amazon_url.com": 0.0
+    }
+}

@@ -1,0 +1,4 @@
+python-daemon==2.3.0
+gmail==0.6.3
+bs4==4.10.0
+request==2.27.1
