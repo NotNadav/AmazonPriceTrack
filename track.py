@@ -10,8 +10,8 @@ from time import sleep
 import random
 import sys
 
-AVARAGE_INTERVAL = 2 * 3600 # Seconds
-RANDOM_RANGE_INTERVAL = 1000
+AVG_INTERVAL = 2 * 3600 # Seconds
+RANDOM_RNG_INTERVAL = 1000
 HEADERS = {
     'Host': 'www.amazon.com',
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:70.0) Gecko/20100101 Firefox/70.0',
